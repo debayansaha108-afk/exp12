@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/9087668d-4543-4b82-b9b9-4b90647bfc8b
-
 # Experiment 12 – Access Web Services using HTTP Requests in Android
 
 📌 **Description**
@@ -65,5 +63,7 @@ exp12/
 └── settings.gradle.kts
 ```
 
+
+https://github.com/user-attachments/assets/9087668d-4543-4b82-b9b9-4b90647bfc8b
 📸 **Output**
 *(Screenshots of the fetched posts list to be added here)*
